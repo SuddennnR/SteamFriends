@@ -16,8 +16,6 @@
 
 | Avatar                                                                            | Name              | steamid                                                                     | is_friend   | BFD                 | Remark   | removed_time        |
 |:----------------------------------------------------------------------------------|:------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|:--------------------|
-| ![](https://avatars.steamstatic.com/d41abd4be0b3769e1919802da758591a11639b13.jpg) | Felix_SYS         | [76561199384218136](https://steamcommunity.com/profiles/76561199384218136/) | ❌           | 2022-08-14 01:06:38 |          | 2024-12-01 11:53:21 |
-| ![](https://avatars.steamstatic.com/ef15d4fa577672454e11c4dc5fbfa9fc71722ede.jpg) | ROOT              | [76561199211756935](https://steamcommunity.com/profiles/76561199211756935/) | ❌           | 2021-10-02 11:23:03 |          | 2024-12-01 11:53:21 |
 | ![](https://avatars.steamstatic.com/4ba2fcb0d68a6d32174f581942d8fa47088011d8.jpg) | 派蒙酱10086          | [76561199077170483](https://steamcommunity.com/profiles/76561199077170483/) | ✅           | 2024-02-02 15:42:32 |          |                     |
 | ![](https://avatars.steamstatic.com/8777ffe5d7a8ca17e9b879c28f8d513936934c8d.jpg) | Killua            | [76561199210384638](https://steamcommunity.com/profiles/76561199210384638/) | ✅           | 2023-12-14 14:06:47 |          |                     |
 | ![](https://avatars.steamstatic.com/6ef09194c04643bad6891a9b6373e18a127c6e2b.jpg) | 时不时用蓄力火遮羞的虚黑城米拉小姐 | [76561199015696661](https://steamcommunity.com/profiles/76561199015696661/) | ✅           | 2023-11-05 09:51:08 |          |                     |
